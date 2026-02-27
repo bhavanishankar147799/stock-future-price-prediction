@@ -1,17 +1,4 @@
-"""
-================================================================================
-  STOCK PRICE PREDICTION OF TATA STEEL USING LSTM (Deep Learning)
-  Capstone Project - BCA/BSc/MCA Final Year
-================================================================================
-  Author      : [Your Name]
-  Institution : [Your College/University Name]
-  Guide       : [Your Project Guide Name]
-  Date        : 2025
-  Description : This project predicts Tata Steel's stock prices using a 
-                Stacked LSTM model. It includes data download, preprocessing,
-                model training, evaluation, visualization, and forecasting.
-================================================================================
-"""
+
 
 # ==============================================================================
 # SECTION 1: IMPORT LIBRARIES
